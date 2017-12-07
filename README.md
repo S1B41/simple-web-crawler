@@ -26,6 +26,6 @@ saves the website pages onto the desktop
 * Invoke the crawl method on the object
 * That is it!
 
-## Lisence
+## License
 
 SimpleCrawler is licensed under the GNU General Public License v3.0
