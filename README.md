@@ -14,7 +14,7 @@ saves the website pages onto the desktop
 * Traversing all pages on a website
 * Calculating all and unique URLs on the website
 * Ignoring URLs to external websites especially to social media websites
-* Saving all pages into a directory on the desktop
+* Saving all pages (only HTML content without CSS or JS or other media like images) into a directory on the desktop
 * Keeping the website hierarchy of the directories
 * Easy to use and understand
 
