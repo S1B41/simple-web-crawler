@@ -20,10 +20,8 @@ saves the website pages onto the desktop
 
 ## How to use it?
 
-* Fork the repository
-or alternatively:
-* Download the class from src
-* Import it
+* Fork the repository or download the class from src and put it somewhere in your project folder
+* Import the package
 * Create an object by passing the wanted URL as an argument
 * Invoke the crawl method on the object
 * Wait until the Crawler finishes his work
