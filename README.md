@@ -24,7 +24,7 @@ saves the website pages onto the desktop
 * Import it
 * Create an object by passing the wanted URL as an argument
 * Invoke the crawl method on the object
-+ Wait until the Crawler finishes his work
+* Wait until the Crawler finishes his work
 * That's it!
 
 ## License
