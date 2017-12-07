@@ -1,3 +1,20 @@
+
+
+/*
+ *
+ *
+ *	Created by Sibai Haj Mousa 2017
+ *	Version 1.0
+ *
+ *
+ *	Licensed under the GNU General Public License v3.0
+ *	You can obtain a copy of the license under:
+ *	https://www.gnu.org/licenses/gpl-3.0.en.html
+ *
+ *
+ */
+
+
 package com.sibaihm.simplecrawler;
 
 import java.io.BufferedReader;
