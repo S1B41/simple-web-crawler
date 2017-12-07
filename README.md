@@ -20,6 +20,8 @@ saves the website pages onto the desktop
 
 ## How to use it?
 
+* Fork the repository
+or alternatively:
 * Download the class from src
 * Import it
 * Create an object by passing the wanted URL as an argument
