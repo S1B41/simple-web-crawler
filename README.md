@@ -27,3 +27,5 @@ saves the website pages onto the desktop
 * That is it!
 
 ## Lisence
+
+SimpleCrawler is licensed under the GNU General Public License v3.0
