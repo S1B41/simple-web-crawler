@@ -18,7 +18,7 @@ saves the website pages onto the desktop
 * Keeping the website hierarchy of the directories
 * Easy to use and understand
 
-## How to use it
+## How to use it?
 
 * Download the class from src
 * Import it
