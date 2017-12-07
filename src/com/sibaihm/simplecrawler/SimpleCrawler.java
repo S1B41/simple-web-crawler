@@ -64,7 +64,7 @@ public class SimpleCrawler {
 	
 	public SimpleCrawler(String targetURL) {
 		this.targetURL 	= targetURL;
-		domain 			= targetURL.replace("https://", "").replace("http://", "").replace("www.", "");
+		domain 		= targetURL.replace("https://", "").replace("http://", "").replace("www.", "");
 	}
 	
 	/*
@@ -186,7 +186,7 @@ public class SimpleCrawler {
 				
 				BufferedReader bufferedReader 	= new BufferedReader(new InputStreamReader(httpConn.getInputStream()));
 				
-				StringBuffer response 			= new StringBuffer();
+				StringBuffer response 		= new StringBuffer();
 				
 				String inputLine;
 
