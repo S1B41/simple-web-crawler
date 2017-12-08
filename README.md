@@ -23,7 +23,13 @@ saves the website pages onto the desktop
 * Fork the repository or download the class from src and put it somewhere in your project folder
 * Import the package
 * Create an object by passing the wanted URL as an argument
+```java
+SimpleCrawler crawler = new SimpleCrawler("https://example.com");
+```
 * Invoke the crawl method on the object
+```java
+crawler.crawl();
+```
 * Wait until the Crawler finishes his work
 * That's it!
 
