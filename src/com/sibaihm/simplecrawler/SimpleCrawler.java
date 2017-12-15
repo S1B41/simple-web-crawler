@@ -3,7 +3,7 @@
 /*
  *
  *
- *	Created by Sibai Haj Mousa 2017
+ *	Created by Sibai H. Mousa 2017
  *	Version 1.0
  *
  *
