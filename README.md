@@ -1,4 +1,4 @@
-# SimpleCrawler
+# simple-web-crawler
 
 ## What is that?
 
